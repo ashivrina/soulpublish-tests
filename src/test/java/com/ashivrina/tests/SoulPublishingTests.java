@@ -96,17 +96,6 @@ public class SoulPublishingTests extends TestBase {
     }
 
     @Test
-    @DisplayName("Page title should have header text")
-    void titleTest() {
-        step("Page title should have text 'TheSoul Publishing'", () -> {
-            String expectedTitle = "TheSoul Publishing";
-            String actualTitle = title();
-
-            assertThat(actualTitle).isEqualTo(expectedTitle);
-        });
-    }
-
-    @Test
     @DisplayName("Page console log should not have errors")
     void consoleShouldNotHaveErrorsTest() {
         step("Console logs should not contain text 'SEVERE'", () -> {
