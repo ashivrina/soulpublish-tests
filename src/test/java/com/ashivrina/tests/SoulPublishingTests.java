@@ -51,6 +51,27 @@ public class SoulPublishingTests extends TestBase {
     }
 
     @Test
+    @DisplayName("Check the 'Advertise' page")
+    void checkAdvertisePage() {
+        step("Click the 'Advertise' button", () -> {
+            $(byText("Advertise")).click();
+        });
+        step("Check that URL is https://www.thesoul-publishing.com/advertise", () -> {
+            String expectedUrl = "https://www.thesoul-publishing.com/advertise";
+            String actualUrl = WebDriverRunner.getWebDriver().getCurrentUrl();
+            assertThat(actualUrl).isEqualTo(expectedUrl);
+        });
+        step("Check the header text", () -> {
+            $("h1").shouldHave(text("Advertise with us!"));
+        });
+        step("Check the subheader text", () -> {
+            $("h5").shouldHave(text("Advertise with TheSoul Publishing to elevate your brand. Exceed your " +
+                    "marketing objectives and engage with your brand’s ideal consumers through TheSoul Publishing’s " +
+                    "powerful brand partnerships program."));
+        });
+    }
+
+    @Test
     @DisplayName("Check social media icons")
     void checkSocialMediaIcons() {
         step("Check that the Facebook icon is displayed", () -> {
