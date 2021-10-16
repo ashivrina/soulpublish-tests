@@ -1,12 +1,12 @@
 # Autotests for TheSoul Publishing site
 
 Main page: https://www.thesoul-publishing.com/
+<img width="1434" alt="main" src="https://user-images.githubusercontent.com/32490159/137587615-1489d770-a7c1-4f87-ab88-c22edec606e2.png">
 
 # Project in Allure TestOps with manual & automated tests
 
 # Jenkins job
 <a target="_blank" href="https://jenkins.autotests.cloud/job/TheSoulPublishing">jenkins.autotests.cloud/job/TheSoulPublishing</a>
-
 
 # USAGE examples
 
