@@ -1,3 +1,7 @@
+# Autotests for TheSoul Publishing site
+
+Main page: https://www.thesoul-publishing.com/
+
 # Project in Allure TestOps with manual & automated tests
 
 # Jenkins job
