@@ -5,6 +5,8 @@ Main page: https://www.thesoul-publishing.com/
 
 # Project in Allure TestOps with manual & automated tests
 
+Click <a target="_blank" href="https://allure.autotests.cloud/project/551/dashboards">here</a> to see Allure TheSoul Publishing project
+
 # Jenkins job
 <a target="_blank" href="https://jenkins.autotests.cloud/job/TheSoulPublishing">jenkins.autotests.cloud/job/TheSoulPublishing</a>
 
