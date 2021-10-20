@@ -25,6 +25,9 @@ Here's a sneak peak of how you can launch tests and which parameters you can spe
 Notifications about test results are sent to Telegram:
 ![telegram](https://user-images.githubusercontent.com/32490159/138117704-3e74546e-2029-45e6-96c6-be660b530749.jpg)
 
+# Example of test video
+![test-video](https://user-images.githubusercontent.com/32490159/138120384-13e28d7f-9b45-48fa-b47c-eb8ce0ef8f1c.gif)
+
 # USAGE examples
 
 ### To run tests remotely, create and fill the remote.properties file or pass the value of:
