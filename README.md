@@ -23,7 +23,7 @@ Here's a sneak peak of how you can launch tests and which parameters you can spe
 
 # Telegram notifications
 Notifications about test results are sent to Telegram:
-![telegram](https://user-images.githubusercontent.com/32490159/138120659-975c438d-2012-4e2f-8c73-7ef183070eb1.jpg)
+<br>![telegram](https://user-images.githubusercontent.com/32490159/138120659-975c438d-2012-4e2f-8c73-7ef183070eb1.jpg)
 
 # Example of test video
 ![test-video](https://user-images.githubusercontent.com/32490159/138120384-13e28d7f-9b45-48fa-b47c-eb8ce0ef8f1c.gif)
