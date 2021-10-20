@@ -16,11 +16,18 @@ And this is the test launch overview - all 6 tests passed, yay 😺
 <img width="1435" alt="Launch-overview" src="https://user-images.githubusercontent.com/32490159/137684031-cfe3cc8c-8770-4e86-b765-5865a647bd19.png">
 
 # Jenkins job
-<a target="_blank" href="https://jenkins.autotests.cloud/job/TheSoulPublishing">jenkins.autotests.cloud/job/TheSoulPublishing</a>
+Jenkins is an automation server which lets us run the tests.
+Click <a target="_blank" href="https://jenkins.autotests.cloud/job/TheSoulPublishing">here</a> to see the job for TheSoul Publishing site. 
+Here's a sneak peak of how you can launch tests and which parameters you can specify:
+<img width="847" alt="jenkins-build-with-parameters" src="https://user-images.githubusercontent.com/32490159/138116518-a1e98f2d-0cf1-4c7b-a93b-0f7791847b7a.png">
+
+# Telegram notifications
+Notifications about test results are sent to Telegram:
+![telegram](https://user-images.githubusercontent.com/32490159/138117704-3e74546e-2029-45e6-96c6-be660b530749.jpg)
 
 # USAGE examples
 
-### To run tests remotely, fill remote.properties or pass the value:
+### To run tests remotely, create and fill the remote.properties file or pass the value of:
 
 * browser (default chrome)
 * browserVersion (default 89.0)
