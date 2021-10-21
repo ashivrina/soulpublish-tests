@@ -4,7 +4,7 @@
 ![selenide](https://user-images.githubusercontent.com/32490159/138323776-007f43b5-8819-4e46-90e5-73254f6b854a.jpeg)
 ![jenkins](https://user-images.githubusercontent.com/32490159/138324083-1992937f-946f-4b1d-9fe3-dbe3155ac0d0.jpeg)
 ![allure](https://user-images.githubusercontent.com/32490159/138323809-440254e7-c44f-4129-a2d1-dcdfde4eb1fa.jpeg)
-![Telegram-logo](https://user-images.githubusercontent.com/32490159/138324034-2017d6c1-7e52-4645-9d10-e09d56a872d2.png)
+![Telegram-logo](https://user-images.githubusercontent.com/32490159/138324199-27e1eea4-b750-4b78-a777-0eaab144824e.png)
 
 # So these are the autotests for TheSoul Publishing site
 
