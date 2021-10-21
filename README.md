@@ -1,3 +1,11 @@
+**Made with** ![java](https://user-images.githubusercontent.com/32490159/138323715-ec77740d-0eb1-42ad-9a38-17b0a4061a5b.jpeg)
+![gradle](https://user-images.githubusercontent.com/32490159/138323739-7b09ca9d-f8fe-4b5a-9494-9858acf957e1.png)
+![junit](https://user-images.githubusercontent.com/32490159/138323764-ed4401f6-2c32-404f-af38-8bf6c040cc33.png)
+![selenide](https://user-images.githubusercontent.com/32490159/138323776-007f43b5-8819-4e46-90e5-73254f6b854a.jpeg)
+![jenkins](https://user-images.githubusercontent.com/32490159/138324083-1992937f-946f-4b1d-9fe3-dbe3155ac0d0.jpeg)
+![allure](https://user-images.githubusercontent.com/32490159/138323809-440254e7-c44f-4129-a2d1-dcdfde4eb1fa.jpeg)
+![Telegram-logo](https://user-images.githubusercontent.com/32490159/138324034-2017d6c1-7e52-4645-9d10-e09d56a872d2.png)
+
 # So these are the autotests for TheSoul Publishing site
 
 The main page of the site is here: https://www.thesoul-publishing.com/
