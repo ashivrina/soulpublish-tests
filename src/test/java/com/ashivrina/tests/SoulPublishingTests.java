@@ -1,5 +1,6 @@
 package com.ashivrina.tests;
 
+import com.ashivrina.JiraIssue;
 import com.ashivrina.helpers.DriverUtils;
 import com.codeborne.selenide.WebDriverRunner;
 import org.junit.jupiter.api.BeforeEach;
@@ -13,7 +14,7 @@ import static com.codeborne.selenide.Selenide.*;
 import static io.qameta.allure.Allure.step;
 import static org.assertj.core.api.Assertions.assertThat;
 
-
+@JiraIssue("HOMEWORK-270")
 public class SoulPublishingTests extends TestBase {
     @BeforeEach
     void prepare() {
